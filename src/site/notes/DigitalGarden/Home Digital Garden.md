@@ -42,4 +42,4 @@ En tant que DSI je dois intervenir aussi dans la gestion du système d'informati
 Je pars depuis ce modèle : https://lyz-code.github.io/blue-book/ 
 
 
-/digi
+/digit
