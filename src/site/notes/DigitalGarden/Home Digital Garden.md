@@ -3,7 +3,7 @@
 ---
  
 
-
+/digi
 Voici un début pour mon Digital Garden. 
 
 Mon objectif est ici de partager mes connaissances dont j'ai besoin au quotidien pour gérer mes missions chez mes clients. [[DigitalGarden/Pourquoi je retranscrit ce que j'apprends\|Pourquoi je retranscrit ce que j'apprends]]
@@ -42,4 +42,3 @@ En tant que DSI je dois intervenir aussi dans la gestion du système d'informati
 Je pars depuis ce modèle : https://lyz-code.github.io/blue-book/ 
 
 
-/digit
