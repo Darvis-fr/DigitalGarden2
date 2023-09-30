@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/DigitalGarden/Home Digital Garden/","tags":["gardenEntry"]}
 ---
  
-/digit
+/dig
 
 Voici un début pour mon Digital Garden. 
 
