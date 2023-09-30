@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/DigitalGarden/Home Digital Garden/","tags":["gardenEntry"]}
 ---
  
-/dig
 
+/digit
 Voici un début pour mon Digital Garden. 
 
 Mon objectif est ici de partager mes connaissances dont j'ai besoin au quotidien pour gérer mes missions chez mes clients. [[DigitalGarden/Pourquoi je retranscrit ce que j'apprends\|Pourquoi je retranscrit ce que j'apprends]]
